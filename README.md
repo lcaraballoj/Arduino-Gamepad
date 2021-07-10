@@ -46,8 +46,10 @@ This workshop allows attendees to make their own game controller out of an Ardui
 12. Once in case test again to make sure everything is operational
 
 # Stripboard with Cut Tracks
+![Stripboard](https://user-images.githubusercontent.com/71469786/125147300-5fe0a080-e0f8-11eb-9801-de5f59a1aa76.png)
 
 # Stripboard Wiring Layout
+![Game Controller Layout](https://user-images.githubusercontent.com/71469786/125147362-9b7b6a80-e0f8-11eb-933a-b0fce96b284a.png)
 
 # Future Project Plans
 1. Make it easier to follow by creating a custom PCB instead of using stripboards and wires
