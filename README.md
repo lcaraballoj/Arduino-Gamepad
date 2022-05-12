@@ -28,11 +28,16 @@ This workshop allows attendees to make their own game controller out of an Ardui
 2. [Mouse by Arduino](https://www.arduino.cc/reference/en/libraries/mouse/)
 
 # Prototypes
-![C1E5A6D![5292EDE4-D94B-4582-A6A9-954CBEFE115B_1_105_c](https://user-images.githubusercontent.com/71469786/168112597-f71949ba-8b9e-4e08-bb6e-fb1a91f78ffb.jpeg)
+![C1E5A6D1-10C9-49C0-AA01-7730707C47CA_1_105_c](https://user-images.githubusercontent.com/71469786/168112896-1796e00f-56b3-4f22-bc44-3003dfd52774.jpeg)
+This was the first every prototype of the gamepad. It was created from a stripboard, wires, joystick, buttons, and Arduino Pro Micro. The problem with this design was the height of the buttons being way too low, creating difficulties in desinging a case for it, and making it very comfortable to use.
 
 ![F7F91142-9FCD-4F0C-B004-658E49CCD8C4_1_105_c](https://user-images.githubusercontent.com/71469786/168112688-e4e3de7b-c9d0-4c56-9656-a8e05ac62612.jpeg)
+This is the inside of the second prototype.
 
 ![D263533D-150D-4709-8E42-F0B21E0330E2_1_105_c](https://user-images.githubusercontent.com/71469786/168112724-111875aa-4643-48fd-b76a-167ee6bf86d1.jpeg)
+This is the outside of the second protype. Observe that the height of the buttons is now level with the joystick and this was accomplished by using two cut stripboards. The biggest flaw with the design was all the soldering and wiring that needed to be done. This second prototype was run for a class and as a workshop in the Fall of 2020 at Sacred Heart University's IDEA Lab with the majority of the participants not having any experience with soldering. It took students from the class coming back on three sepearte occassions for 2 hour sessions in order for the majority of them to finish. And many students during the workshop were not able to get theirs to even work.
+
+In the end everyone had fun, but it was clear that there was a huge flaw with running this for a class or workshop. The prep was long and tediuous as one had to cut all the wires out and sort them to make sure that the right length wire were being used and trying to monitor multiple students following all the wiring was difficult to manage. However, this is what led us to the final design and the same wiring and schematics was used in the PCB version.
 
 ![ECE57B97-35D2-4086-9169-0B43F05287FE_1_105_c](https://user-images.githubusercontent.com/71469786/168112703-a69e1916-5ee0-4f9b-82d2-67b31f994a8f.jpeg)
 
