@@ -28,7 +28,7 @@ This workshop allows attendees to make their own game controller out of an Ardui
 2. [Mouse by Arduino](https://www.arduino.cc/reference/en/libraries/mouse/)
 
 # Prototypes
-<img src="Pictures/PrototypeV1.jpeg" width="60%" height="60%" title="Prototype 1">
+<img src="Pictures/PrototypeV1.jpeg" width="40%" height="40%" title="Prototype 1" align="right">
 This was the first every prototype of the gamepad. It was created from a stripboard, wires, joystick, buttons, and Arduino Pro Micro. The problem with this design was the height of the buttons being way too low, creating difficulties in desinging a case for it, and making it very comfortable to use.
 
 ![F7F91142-9FCD-4F0C-B004-658E49CCD8C4_1_105_c](https://user-images.githubusercontent.com/71469786/168112688-e4e3de7b-c9d0-4c56-9656-a8e05ac62612.jpeg)
