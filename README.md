@@ -10,7 +10,7 @@ A USB gamepad made from an Arduino Pro Micro that I developed into a soldering w
 6. [Assembly Steps](#assembly-steps)
 
 # Description
-This workshop allows attendees to make their own game controller out of an Arduino, custom PCBs, buttons, and a joystick. It will teach about soldering, specifically through hole soldering. We use custom PCBs to elimnate the need for wires and make it eaiser for first solderers. It will also introduce the participants to Arduino code and libraries, although they will not code, it is important to do a quick overview of the code so that they understand why their game controller works. The goal of this workshop is to introduce attendees to Arduinos, soldering, solder safety, PCBs, and for them to walk away with a cool game controller that they personally made. 
+This workshop allows attendees to make their own game controller out of an Arduino, custom PCBs, buttons, and a joystick. It will teach about soldering, specifically through hole soldering. We use custom PCBs to eliminate the need for wires and make it eaiser for first solderers. It will also introduce the participants to Arduino code and libraries, although they will not code, it is important to do a quick overview of the code so that they understand why their game controller works. The goal of this workshop is to introduce attendees to Arduinos, soldering, solder safety, PCBs, and for them to walk away with a cool game controller that they personally made. 
 
 # Materials
 1. Arduino Pro Micro
@@ -30,7 +30,7 @@ This workshop allows attendees to make their own game controller out of an Ardui
 # Prototypes
 <div class="image">
 <img src="Pictures/PrototypeV1.jpeg" width="40%" height="40%" title="Prototype 1" align="left">
-This was the first every prototype of the gamepad. It was created from a stripboard, wires, joystick, buttons, and Arduino Pro Micro. The problem with this design was the height of the buttons being way too low, creating difficulties in desinging a case for it, and making it very comfortable to use. <br />
+This was the first every prototype of the gamepad. It was created from a stripboard, wires, joystick, buttons, and Arduino Pro Micro. The problem with this design was the height of the buttons being way too low, creating difficulties in desinging a case for it, and making it very comfortable to use.<br />
   
 <img src="Pictures/PrototypeV2.jpeg" width="40%" height="40%" title="Prototype 2 Inside" align="left">
 This is the second prototype with the button height raised.
