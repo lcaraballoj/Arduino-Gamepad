@@ -30,7 +30,7 @@ This workshop allows attendees to make their own game controller out of an Ardui
 # Prototypes
 <div class="image">
 <img src="Pictures/PrototypeV1.jpeg" width="40%" height="40%" title="Prototype 1" align="left">
-This was the first every prototype of the gamepad. It was created from a stripboard, wires, joystick, buttons, and Arduino Pro Micro. The problem with this design was the height of the buttons being way too low, creating difficulties in desinging a case for it, and making it very comfortable to use.
+This was the first every prototype of the gamepad. It was created from a stripboard, wires, joystick, buttons, and Arduino Pro Micro. The problem with this design was the height of the buttons being way too low, creating difficulties in desinging a case for it, and making it very comfortable to use. <br />
   
 <img src="Pictures/PrototypeV2.jpeg" width="40%" height="40%" title="Prototype 2 Inside" align="left">
 This is the second prototype with the button height raised.
