@@ -1,12 +1,13 @@
 # Arduino-Gamepad
-A USB gamepad made from an Arduino Pro Micro that I developed into a soldering workshop in the Fall of 2020.
+A USB gamepad made from an Arduino Pro Micro that I developed into a soldering workshop in the Fall of 2020 to Fall 2021.
 
 # Table of Contents
 1. [Description](#description)
 2. [Materials](#materials)
 3. [Libraries Needed](#libraries-needed)
 4. [Prototypes](#prototypes)
-5. [Assembly Steps](#assembly-steps)
+5. [PCB Schematics](#pcb-schematics)
+6. [Assembly Steps](#assembly-steps)
 
 # Description
 This workshop allows attendees to make their own game controller out of an Arduino, custom PCBs, buttons, and a joystick. It will teach about soldering, specifically through hole soldering. We use custom PCBs to elimnate the need for wires and make it eaiser for first solderers. It will also introduce the participants to Arduino code and libraries, although they will not code, it is important to do a quick overview of the code so that they understand why their game controller works. The goal of this workshop is to introduce attendees to Arduinos, soldering, solder safety, PCBs, and for them to walk away with a cool game controller that they personally made. 
@@ -27,6 +28,13 @@ This workshop allows attendees to make their own game controller out of an Ardui
 2. [Mouse by Arduino](https://www.arduino.cc/reference/en/libraries/mouse/)
 
 # Prototypes
+![C1E5A6D![5292EDE4-D94B-4582-A6A9-954CBEFE115B_1_105_c](https://user-images.githubusercontent.com/71469786/168112597-f71949ba-8b9e-4e08-bb6e-fb1a91f78ffb.jpeg)
+
+![F7F91142-9FCD-4F0C-B004-658E49CCD8C4_1_105_c](https://user-images.githubusercontent.com/71469786/168112688-e4e3de7b-c9d0-4c56-9656-a8e05ac62612.jpeg)
+
+![D263533D-150D-4709-8E42-F0B21E0330E2_1_105_c](https://user-images.githubusercontent.com/71469786/168112724-111875aa-4643-48fd-b76a-167ee6bf86d1.jpeg)
+
+![ECE57B97-35D2-4086-9169-0B43F05287FE_1_105_c](https://user-images.githubusercontent.com/71469786/168112703-a69e1916-5ee0-4f9b-82d2-67b31f994a8f.jpeg)
 
 # Assembly Steps
 1. Place Arduino header pins and arduino on PCB.
